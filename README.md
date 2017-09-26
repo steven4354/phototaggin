@@ -1,3 +1,3 @@
 # photo tagging
 
-![alt text] (./readme_pic.jpg.png)
+![Alt text](./readme_pic.jpg?raw=true "Demonstration")
